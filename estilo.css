@@ -1,0 +1,39 @@
+* {
+    padding: 0;
+    margin: 10;
+    box-sizing: border-box;
+    max-width: 600px;
+
+}
+
+html {
+    font-size: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    scroll-behavior: smooth;
+
+}
+
+a {
+    text-decoration: none;
+    color: rgb(2, 6, 253);
+    font-weight: bold;
+
+}
+
+header {
+   text-decoration: underline;
+   
+   
+}
+
+.subtitulo, .objetivo {
+    font-weight: bold;
+
+}
+
+ul {
+
+    padding: 2px;
+    list-style: none;
+  
+}
